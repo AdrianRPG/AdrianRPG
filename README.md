@@ -8,4 +8,4 @@ I am an outstanding senior student majoring in Computer Science at Florida Inter
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/AdrianRPG/grovers-algorithm/tree/main">Grover’s Search Algorithm Simulation (Quantum Computing Project)</a>
