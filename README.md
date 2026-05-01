@@ -9,3 +9,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/AdrianRPG/grovers-algorithm/tree/main">Grover’s Search Algorithm Simulation (Quantum Computing Project)</a>
+- <a href="">GYM: Start Your New Lifestyle - Software Developer (Independent Project)</a>
