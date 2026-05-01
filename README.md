@@ -8,5 +8,5 @@ I am an outstanding senior student majoring in Computer Science at Florida Inter
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Projects
-- <a href="https://github.com/AdrianRPG/grovers-algorithm/tree/main">Grover’s Search Algorithm Simulation (Quantum Computing Project)</a>
-- <a href="">GYM: Start Your New Lifestyle - Software Developer (Independent Project)</a>
+- <a href="https://github.com/AdrianRPG/grovers-algorithm/tree/main">Grover’s Search Algorithm Simulation (Quantum Computing Project) May 2026</a>
+- <a href="https://github.com/AdrianRPG/fitness-planner-python/tree/main">GYM: Start Your New Lifestyle - Software Developer (Independent Project) | May 2022</a>
