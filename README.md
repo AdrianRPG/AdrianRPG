@@ -5,7 +5,7 @@ I am an outstanding senior student majoring in Computer Science at Florida Inter
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+My journey in computer science has led me to develop a passion for cybersecurity and quantum computing, and I am now eager to transition into these fields.
 
 ## Projects
 - <a href="https://github.com/AdrianRPG/grovers-algorithm/tree/main">Grover’s Search Algorithm Simulation (Quantum Computing Project) | May 2026</a>
