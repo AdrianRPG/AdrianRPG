@@ -9,5 +9,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/AdrianRPG/grovers-algorithm/tree/main">Grover’s Search Algorithm Simulation (Quantum Computing Project) | May 2026</a>
+- <a href="https://github.com/AdrianRPG/digital-surveillance-ethics/tree/main">Research Paper: Ethical Implications of Law Enforcement Access to Digital Information | March 2026</a>
 - <a href="https://github.com/AdrianRPG/zero-trust-policy-analysis/tree/main">Zero Trust Policy Analysis: Addressing Inconsistent Implementation | December 2025</a>
 - <a href="https://github.com/AdrianRPG/fitness-planner-python/tree/main">GYM: Start Your New Lifestyle - Software Developer (Independent Project) | May 2022</a>
