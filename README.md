@@ -8,7 +8,14 @@ I am an outstanding senior student majoring in Computer Science at Florida Inter
 My journey in computer science has led me to develop a passion for cybersecurity and quantum computing, and I am now eager to transition into these fields.
 
 ## Projects
+
+Quantum Projects
 - <a href="https://github.com/AdrianRPG/grovers-algorithm/tree/main">Grover’s Search Algorithm Simulation (Quantum Computing Project) | May 2026</a>
+
+Cybersecurity Projects
 - <a href="https://github.com/AdrianRPG/digital-surveillance-ethics/tree/main">Research Paper: Ethical Implications of Law Enforcement Access to Digital Information | March 2026</a>
 - <a href="https://github.com/AdrianRPG/zero-trust-policy-analysis/tree/main">Zero Trust Policy Analysis: Addressing Inconsistent Implementation | December 2025</a>
+
+Other Projects
 - <a href="https://github.com/AdrianRPG/fitness-planner-python/tree/main">GYM: Start Your New Lifestyle - Software Developer (Independent Project) | May 2022</a>
+
