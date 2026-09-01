@@ -9,6 +9,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 
+AI/ML Projects
+- <a
+
 Networking Projects
 - <a
 
