@@ -13,10 +13,10 @@ AI/ML Projects
 - <a
 
 Networking Labs
-- <a
+- <a href="https://github.com/AdrianRPG/wireshark-http-packet-analysis-lab/tree/main">Wireshark HTTP Packet Analysis Lab | August 2026</a>
 
 Quantum Projects
-- <a href="https://github.com/AdrianRPG/grovers-algorithm/tree/main">Grover’s Search Algorithm Simulation (Quantum Computing Project) | May 2026</a>
+- <a href="https://github.com/AdrianRPG/grovers-algorithm/tree/main">Grover’s Search Algorithm Simulation | May 2026</a>
 
 Cybersecurity Projects
 - <a href="https://github.com/AdrianRPG/digital-surveillance-ethics/tree/main">Research Paper: Ethical Implications of Law Enforcement Access to Digital Information | March 2026</a>
