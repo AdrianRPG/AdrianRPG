@@ -9,7 +9,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 
-AI/ML Projects
+Web Development Projects
+- <a 
+
+Artificial Intelligence (AI)/ Machine Learning (ML) Projects
 - <a
 
 Networking Labs
