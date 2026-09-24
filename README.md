@@ -16,6 +16,7 @@ Artificial Intelligence (AI)/ Machine Learning (ML) Projects
 - <a
 
 Networking Labs & Projects
+- <a href="https://github.com/AdrianRPG/wireshark-http-behavior-analysis-lab/tree/main">Wireshark HTTP Behavior Analysis Lab | September 2026</a>
 - <a href="https://github.com/AdrianRPG/tcp-client-server-chat/tree/main">TCP Client-Server Chat Application Project | September 2026
 - <a href="https://github.com/AdrianRPG/wireshark-http-packet-analysis-lab/tree/main">Wireshark HTTP Packet Analysis Lab | August 2026</a>
 
