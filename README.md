@@ -9,11 +9,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 
-Web Development Projects
-- <a 
+Full-Stack & Web Development Projects
+- <a href="https://github.com/StBoris04/SperryTech_Hackathon_2026-PDSA-/tree/main">GridLock - Utility Infrastructure Coordination | ShellHacks 2026 | September 2026
 
-Artificial Intelligence (AI)/ Machine Learning (ML) Projects
-- <a
+Artificial Intelligence (AI) & Generative AI Projects
+- <a href="https://github.com/AdrianRPG/aws-agentic-ai-weather-agent/tree/main">AWS Agentic AI Weather Agent | September 2026
 
 Networking Labs & Projects
 - <a href="https://github.com/AdrianRPG/wireshark-http-behavior-analysis-lab/tree/main">Wireshark HTTP Behavior Analysis Lab | September 2026</a>
