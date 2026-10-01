@@ -28,5 +28,6 @@ Cybersecurity Projects
 - <a href="https://github.com/AdrianRPG/zero-trust-policy-analysis/tree/main">Zero Trust Policy Analysis: Addressing Inconsistent Implementation | December 2025</a>
 
 Other Projects
+- <a href="https://github.com/AdrianRPG/linux-mini-shell/tree/main">Linux Mini Shell | October 2026
 - <a href="https://github.com/AdrianRPG/fitness-planner-python/tree/main">GYM: Start Your New Lifestyle - Software Developer (Independent Project) | May 2022</a>
 
