@@ -16,8 +16,9 @@ Artificial Intelligence (AI) & Generative AI Projects
 - <a href="https://github.com/AdrianRPG/aws-agentic-ai-weather-agent/tree/main">AWS Agentic AI Weather Agent | September 2026
 
 Networking Labs & Projects
+- <a href="https://github.com/AdrianRPG/wireshark-tcp-analysis/tree/main">Wireshark TCP Protocol Analysis | October 2026</a>
 - <a href="https://github.com/AdrianRPG/wireshark-http-behavior-analysis-lab/tree/main">Wireshark HTTP Behavior Analysis Lab | September 2026</a>
-- <a href="https://github.com/AdrianRPG/tcp-client-server-chat/tree/main">TCP Client-Server Chat Application Project | September 2026
+- <a href="https://github.com/AdrianRPG/tcp-client-server-chat/tree/main">TCP Client-Server Chat Application Project | September 2026</a>
 - <a href="https://github.com/AdrianRPG/wireshark-http-packet-analysis-lab/tree/main">Wireshark HTTP Packet Analysis Lab | August 2026</a>
 
 Quantum Projects
@@ -28,6 +29,6 @@ Cybersecurity Projects
 - <a href="https://github.com/AdrianRPG/zero-trust-policy-analysis/tree/main">Zero Trust Policy Analysis: Addressing Inconsistent Implementation | December 2025</a>
 
 Other Projects
-- <a href="https://github.com/AdrianRPG/linux-mini-shell/tree/main">Linux Mini Shell | October 2026
+- <a href="https://github.com/AdrianRPG/linux-mini-shell/tree/main">Linux Mini Shell | October 2026</a>
 - <a href="https://github.com/AdrianRPG/fitness-planner-python/tree/main">GYM: Start Your New Lifestyle - Software Developer (Independent Project) | May 2022</a>
 
