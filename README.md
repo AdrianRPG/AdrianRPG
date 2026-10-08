@@ -16,7 +16,7 @@ Artificial Intelligence (AI) & Generative AI Projects
 - <a href="https://github.com/AdrianRPG/aws-agentic-ai-weather-agent/tree/main">AWS Agentic AI Weather Agent | September 2026
 
 Networking Labs & Projects
-- <a href="https://github.com/AdrianRPG/wireshark-tcp-analysis/tree/main">Wireshark TCP Protocol Analysis | October 2026</a>
+- <a href="https://github.com/AdrianRPG/wireshark-tcp-analysis/tree/main">Wireshark TCP Protocol Analysis Lab | October 2026</a>
 - <a href="https://github.com/AdrianRPG/wireshark-http-behavior-analysis-lab/tree/main">Wireshark HTTP Behavior Analysis Lab | September 2026</a>
 - <a href="https://github.com/AdrianRPG/tcp-client-server-chat/tree/main">TCP Client-Server Chat Application Project | September 2026</a>
 - <a href="https://github.com/AdrianRPG/wireshark-http-packet-analysis-lab/tree/main">Wireshark HTTP Packet Analysis Lab | August 2026</a>
