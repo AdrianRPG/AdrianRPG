@@ -9,11 +9,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 
+Cloud & DevOps Projects
+- <a href="https://github.com/AdrianRPG/portfolio-website-aws/tree/main">AWS Serverless Portfolio Website | [Live Demo](https://d2ghbj4anwhfu9.cloudfront.net) | October 2026</a>
+
 Full-Stack & Web Development Projects
-- <a href="https://github.com/StBoris04/SperryTech_Hackathon_2026-PDSA-/tree/main">GridLock - Utility Infrastructure Coordination | ShellHacks 2026 | September 2026
+- <a href="https://github.com/StBoris04/SperryTech_Hackathon_2026-PDSA-/tree/main">GridLock - Utility Infrastructure Coordination | ShellHacks 2026 | September 2026</a>
 
 Artificial Intelligence (AI) & Generative AI Projects
-- <a href="https://github.com/AdrianRPG/aws-agentic-ai-weather-agent/tree/main">AWS Agentic AI Weather Agent | September 2026
+- <a href="https://github.com/AdrianRPG/aws-agentic-ai-weather-agent/tree/main">AWS Agentic AI Weather Agent | September 2026</a>
 
 Networking Labs & Projects
 - <a href="https://github.com/AdrianRPG/wireshark-tcp-analysis/tree/main">Wireshark TCP Protocol Analysis Lab | October 2026</a>
