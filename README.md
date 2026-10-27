@@ -19,21 +19,21 @@ Artificial Intelligence (AI) & Generative AI Projects
 - <a href="https://github.com/AdrianRPG/aws-agentic-ai-weather-agent/tree/main">AWS Agentic AI Weather Agent | September 2026</a>
 
 Networking Labs & Projects
-- <a href="https://github.com/AdrianRPG/wireshark-udp-analysis/tree/main">Wireshark UDP Analysis Lab | October 2026</a>
-- <a href="https://github.com/AdrianRPG/wireshark-tcp-analysis/tree/main">Wireshark TCP Protocol Analysis Lab | October 2026</a>
-- <a href="https://github.com/AdrianRPG/wireshark-http-behavior-analysis-lab/tree/main">Wireshark HTTP Behavior Analysis Lab | September 2026</a>
-- <a href="https://github.com/AdrianRPG/tcp-client-server-chat/tree/main">TCP Client-Server Chat Application Project | September 2026</a>
-- <a href="https://github.com/AdrianRPG/wireshark-http-packet-analysis-lab/tree/main">Wireshark HTTP Packet Analysis Lab | August 2026</a>
+- <a href="https://github.com/AdrianRPG/wireshark-udp-analysis/tree/main">Wireshark UDP Analysis Lab (Academic) | October 2026</a>
+- <a href="https://github.com/AdrianRPG/wireshark-tcp-analysis/tree/main">Wireshark TCP Protocol Analysis Lab (Academic) | October 2026</a>
+- <a href="https://github.com/AdrianRPG/wireshark-http-behavior-analysis-lab/tree/main">Wireshark HTTP Behavior Analysis Lab (Academic) | September 2026</a>
+- <a href="https://github.com/AdrianRPG/tcp-client-server-chat/tree/main">TCP Client-Server Chat Application Project (Academic) | September 2026</a>
+- <a href="https://github.com/AdrianRPG/wireshark-http-packet-analysis-lab/tree/main">Wireshark HTTP Packet Analysis Lab (Academic) | August 2026</a>
 
 Quantum Projects
 - <a href="https://github.com/AdrianRPG/cipherq-policy-lab/tree/main">CipherQ - Policy Lab | Global Quantum Hackathon 2026 | October 2026</a>
-- <a href="https://github.com/AdrianRPG/grovers-algorithm/tree/main">Grover’s Search Algorithm Simulation | May 2026</a>
+- <a href="https://github.com/AdrianRPG/grovers-algorithm/tree/main">Grover’s Search Algorithm Simulation (Academic) | May 2026</a>
 
 Cybersecurity Projects
-- <a href="https://github.com/AdrianRPG/digital-surveillance-ethics/tree/main">Research Paper: Ethical Implications of Law Enforcement Access to Digital Information | March 2026</a>
-- <a href="https://github.com/AdrianRPG/zero-trust-policy-analysis/tree/main">Zero Trust Policy Analysis: Addressing Inconsistent Implementation | December 2025</a>
+- <a href="https://github.com/AdrianRPG/digital-surveillance-ethics/tree/main">Research Paper: Ethical Implications of Law Enforcement Access to Digital Information (Academic) | March 2026</a>
+- <a href="https://github.com/AdrianRPG/zero-trust-policy-analysis/tree/main">Zero Trust Policy Analysis: Addressing Inconsistent Implementation (Academic) | December 2025</a>
 
 Other Projects
-- <a href="https://github.com/AdrianRPG/linux-mini-shell/tree/main">Linux Mini Shell | October 2026</a>
+- <a href="https://github.com/AdrianRPG/linux-mini-shell/tree/main">Linux Mini Shell (Academic) | October 2026</a>
 - <a href="https://github.com/AdrianRPG/fitness-planner-python/tree/main">GYM: Start Your New Lifestyle - Software Developer (Independent Project) | May 2022</a>
 
